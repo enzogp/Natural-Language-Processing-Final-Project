@@ -1,0 +1,22 @@
+STRUCTURES = [
+    ["Det", "Noun", "Verb"],
+    ["Det", "Adj", "Noun", "Verb"],
+    ["Pronoun", "Verb"],
+    ["Pronoun", "Verb", "Det", "Noun"],
+    ["Det", "Adj", "Noun", "Verb", "Adv"],
+    ["Det", "Noun", "Verb", "Conj", "Det", "Noun", "Verb"],
+    ["Det", "Noun", "Verb", "Prep", "Det", "Noun"],
+    ["Pronoun", "Verb", "Adv"],
+    ["Det", "Noun", "Aux", "VerbPart"],
+    ["Pronoun", "Aux", "VerbPart"],
+    ["Det", "Adj", "Noun", "Aux", "VerbPart"],
+    ["Det", "Noun", "Aux", "VerbPart", "Adv"],
+    ["Pronoun", "Aux", "VerbPart", "Adv"],
+    ["Det", "Noun", "Aux", "VerbPart", "Prep", "Det", "Noun"],
+    ["Pronoun", "Aux", "VerbPart", "Prep", "Det", "Noun"],
+    ["Det", "Adj", "Noun", "Aux", "VerbPart", "Prep", "Det", "Noun"],
+    ["Pronoun", "Verb", "Prep", "Det", "Noun"],
+    ["Det", "Adj", "Noun", "Verb", "Prep", "Det", "Adj", "Noun"],
+    ["Det", "Noun", "Verb", "Adv", "Prep", "Det", "Noun"],
+    ["Pronoun", "Aux", "VerbPart", "Adv", "Prep", "Det", "Noun"]
+]
